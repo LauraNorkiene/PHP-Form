@@ -1,0 +1,29 @@
+body {
+    background: linear-gradient(#b06be1, #e86d9e);
+}
+
+form {
+    width: 40%;
+    height: 640px;
+}
+
+h1 {
+    color: white;
+}
+
+.main {
+    height: 720px;
+}
+
+#card {
+    display: grid;
+}
+
+#button {
+    background-color: #e86d9e;
+}
+
+hr {
+    background-color: #b06be1;
+    height: 5px;
+}
